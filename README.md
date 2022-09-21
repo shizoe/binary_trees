@@ -2501,7 +2501,6 @@ What are the average time complexities of those operations on a Binary Heap (one
 *    Extracting the root node
 *    Searching for a node in a binary heap of size n
 ---
-## Authors
+## Author
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
-* **Cristian Pineda** - [Cristiand187](https://github.com/Cristiand187)
+* **Mabo Mbebeta** - [shizoe](https://github.com/shizoe)
